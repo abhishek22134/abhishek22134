@@ -65,4 +65,4 @@ Python tool for hiding data inside images.
 
 ## 📫 Let's connect
 
-I'm actively looking for cloud and DevOps opportunities. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/abhishek-jyethi-81577b1bb/) or email.
+I'm actively looking for cloud and DevOps opportunities. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/abhishek-jyethi-81577b1bb/) or email(abhisekjyethi@gmail.com).
