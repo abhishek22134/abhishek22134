@@ -90,16 +90,9 @@ resource "engineer" "abhishek" {
 ## 📊 Language mix
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek22134&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://raw.githubusercontent.com/abhishek22134/abhishek22134/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="200" />
+  <img src="https://raw.githubusercontent.com/abhishek22134/abhishek22134/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="200" />
 </p>
-
-<!--
-ENABLE THESE LATER, once your contribution graph has more activity:
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishek22134&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek22134&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
--->
 
 ## 🐍 My contribution graph, eaten by a snake
 
